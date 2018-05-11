@@ -1,0 +1,7 @@
+{
+  "username": "username",
+  "password": "pass",
+  "http_proxy": "http://user:pass@ip:port",
+  "https_proxy": "https://user:pass@ip:port",
+  "no_proxy": "localhost,127.0.0.1"
+}

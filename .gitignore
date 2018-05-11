@@ -1,0 +1,5 @@
+output/*.box
+packer_cache
+private.json
+tmp/
+
